@@ -1,5 +1,9 @@
 # uts_semester6
 
+* Nama      : Fajar Firmansyah
+* Nim       : 312010309
+* kelas     : TI.20.A.3
+
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +18,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
+### Tampilan Aplikasi Login
+
+![images/2.png](/images/2.png)
+
+![images/3.png](/images/3.png)
+
+![images/4.png](/images/4.png)
